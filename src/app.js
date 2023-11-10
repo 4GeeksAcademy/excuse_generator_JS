@@ -21,7 +21,7 @@ let generateExcuse = () => {
     "threw my",
     "yelled at my",
     "stole my",
-    "bit my",
+    "bit my"
   ];
   let possetion = ["homework", "toe", "car", "t-shirt"];
   let where = ["on the street", "in my house", "in my driveway"];
